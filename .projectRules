@@ -1,0 +1,84 @@
+Propab is a platform focused on building a digital twin of users and facilitating connections through friend-matching algorithms.
+
+## Rules
+
+- All code must be written in JavaScript.
+- All code must be written in a way that is easy to understand and maintain.
+- All code must be written in a way that is easy to test and debug.
+- All code must be written in a way that is easy to deploy and scale.
+- Keep the codebase clean and organized, use meaningful variable and function names, and add comments to the code to explain why behind the code.
+- Modern animations and transitions should be used to make the UI more engaging and user-friendly.
+- Proper error handling and user feedback should be provided to the user.
+- Proper SEO should be implemented to make the website more visible and searchable.
+- Proper security practices should be implemented to protect the user's data and privacy.
+
+## Technologies
+
+- Next.js for full-stack rendering (SSG, SSR).
+- Use Tailwind CSS for styling.
+- Framer Motion for animations.
+- Shadcn UI for UI components.
+- OpenCV and spaCy for basic computer vision and NLP tasks.
+- Hugging Face for AI models related to text analysis and personality insights.
+- Use ORM (Prisma) for database interactions.
+- MongoDB for data storage, including user data, interactions, and personality history.
+- Redis for caching frequently accessed data (e.g., user profiles, match suggestions).
+- Prometheus for system monitoring and metrics.
+- Grafana for dashboard visualizations of backend analytics.
+- Use Docker for containerization.
+
+
+## Features
+
+- User authentication and authorization.
+- User profile creation and editing.
+- Personality analysis and insights.
+- Friend matching algorithms.
+- Real-time chat and messaging.
+- User activity tracking and analytics.
+- User feedback and rating system.
+- User privacy and data protection.
+- User settings and preferences.
+- User notifications and alerts.
+- User analytics and reporting.
+- User support and help center.
+
+## Core Features
+
+# Start with a beautiful animated and easy onboarding process. Ask user the important questions to create a digital twin of themselves.
+
+# The more they interact with the platform, the more the digital twin will learn about them, evolving over time. 
+
+# User must be able to upload photos, videos, and audio to the platform, and the digital twin will analyze the content and provide insights and personality traits.
+
+# Let the user connect their social media accounts to the platform, and the digital twin will analyze the content and learn insights and personality traits.
+
+# Digital twin should have features like voice, text, and video chat. It should have Memory Aggregation, and it should be able to learn from the user's past interactions and conversations. Summarization, personality insights should be shown to the user in a visual way with time.
+
+# Let the user see their digital twin evolving over time visually in a gamified way.
+
+# User must be able to see their digital twin in a 3D avatar.
+
+# With all this information, the digital twin will be able to automatically connect the user with other users that have similar personality traits and interests.
+
+# The entire friend matching process must be gamified and visually appealing and would work on autopilot. While onboarding, ask consent if they want to new connections made entirely through AI.
+
+# Person A and Person B must be able to chat with each other through the platform, and the connect on fly feature will facilitate the connection using AI. 
+
+# Connect on fly feature will use AI to match the user with other users that have similar personality traits and interests and if a match with higher compatibility score is found, the connect on fly feature will automatically sent a request to another user with a short note to connect. The other users AI will be able to see the request and accept it if they may be interested. Complete feature must be gamified and visually appealing and would work on autopilot. 
+
+# Let the user see their connections details and stats.
+
+# Person A and Person B must be able to see each other's digital twins and personality traits with stats and visualizations.
+
+# Multiverse of What If feature, where the user can explore different scenarios and see how their digital twin would react in those scenarios. 
+
+# Simulate hypothetical scenarios based on user data (e.g., alternate career paths, different life decisions).
+
+# Display these scenarios as timelines or branching paths for user interaction.
+
+# Summarize key insights from alternative scenarios to foster personal growth.
+
+
+
+
